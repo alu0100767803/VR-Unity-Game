@@ -59,7 +59,6 @@
      <Compile Include="Assets\GoogleVR\Legacy\Editor\GvrMenu.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\GvrViewerEditor.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\StereoControllerEditor.cs" />
-     <Compile Include="Assets\TornadoBanditsStudio\Editor\TBS_PresentationWindow.cs" />
      <None Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />

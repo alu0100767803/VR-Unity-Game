@@ -186,7 +186,6 @@
      <Compile Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
      <Compile Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
      <Compile Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
-     <Compile Include="Assets\TornadoBanditsStudio\Low Poly Free Pack\Scripts\TBS_CameraMovement.cs" />
      <Compile Include="Assets\[6]Golem\Scripts\buttons.cs" />
      <None Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\L_FG_Assets_Pack_Lite\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
