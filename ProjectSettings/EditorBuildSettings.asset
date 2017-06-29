@@ -5,21 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Datafiles/Scenes/MenuScene/MenuScene(Antigua).unity
-    guid: 27efa3977b6674550bccbbcb600eab24
-  - enabled: 0
-    path: Assets/Datafiles/Scenes/DayScene/DayScene.unity
-    guid: 455bf368e57d148ae85434dd6e2e6181
-  - enabled: 0
-    path: Assets/Datafiles/Scenes/EndScene/EndScene(Antigua).unity
-    guid: f453cf2c2306741c58884bd82efdaff2
-  - enabled: 0
-    path: Assets/Datafiles/Scenes/NightScene/NightScene.unity
-    guid: 7e2b3cfacdd5bc443ad89b5ce1c94d0e
-  - enabled: 0
-    path: 
-    guid: 282e3f19172e54b98962e98fd75b73b8
   - enabled: 1
     path: Assets/Datafiles/Scenes/MenuScene/MenuScene.unity
     guid: 5af223419e0de4240886d8fd4eddf7b4
@@ -29,3 +14,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Datafiles/Scenes/EndScene/EndScene.unity
     guid: e2ea867d0e1b556409ca10a910a3f39f
+  - enabled: 0
+    path: 
+    guid: 27efa3977b6674550bccbbcb600eab24
+  - enabled: 0
+    path: 
+    guid: 455bf368e57d148ae85434dd6e2e6181
+  - enabled: 0
+    path: 
+    guid: f453cf2c2306741c58884bd82efdaff2
+  - enabled: 0
+    path: 
+    guid: 7e2b3cfacdd5bc443ad89b5ce1c94d0e
+  - enabled: 0
+    path: 
+    guid: 282e3f19172e54b98962e98fd75b73b8

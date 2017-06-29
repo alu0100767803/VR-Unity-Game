@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Datafiles/Scenes/MenuScene/MenuScene.unity
+- path: Assets/Datafiles/Scenes/PlayScene/PlayScene.unity
   isLoaded: 1
   isActive: 1

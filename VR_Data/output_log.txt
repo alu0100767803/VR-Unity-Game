@@ -1,0 +1,633 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M    (ID=0x1058)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   10.18.13.5354
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity\Workspace\VR-Unity-Game\VR_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 3.084772 ms
+GVR Unity SDK Version: 1.20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InvalidOperationException: Unsupported device.
+  at Gvr.Internal.BaseVRDevice.GetDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.InitDevice () [0x00000] in <filename unknown>:0 
+  at GvrViewer.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ZombieRig') is missing!
+ 
+(Filename:  Line: 1743)
+
+Failed to create agent because there is no valid NavMesh
+ 
+(Filename:  Line: 598)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ScoreDisplay.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2c8c -> priority: 1 
+  Thread -> id: 2da8 -> priority: 1 
+  Thread -> id: 169c -> priority: 1 
+  Thread -> id: 27e4 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationPause (Boolean pause) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationPause (Boolean pause) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationFocus (Boolean focus) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at GvrViewer.OnApplicationPause (Boolean pause) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
