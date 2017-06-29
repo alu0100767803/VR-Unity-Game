@@ -2,7 +2,7 @@
 
 **Enlace al video de YouTube:** https://www.youtube.com/watch?v=JQTom9rvaQ0&feature=youtu.be
 
-![Captura de pantalla.png](/images/Captura de pantalla.jpg)
+![Captura de pantalla](/images/Captura de pantalla.jpg)
 
 Es un juego de realidad virtual diseñado para las Google Cardboard, el jugador tiene un minuto para matar el mayor número de enemigos posibles (zombies, brujas, golems y demás criaturas fantásticas). Tiene como arma una daga de plata.
 
