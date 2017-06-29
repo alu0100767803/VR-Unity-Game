@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 86b9cc3e09cce4272a0ed421f9e85e54
+timeCreated: 1497894408
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fontdiner Swanky
+  fontNames:
+  - Fontdiner Swanky
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
